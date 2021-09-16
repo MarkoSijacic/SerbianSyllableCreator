@@ -97,7 +97,7 @@ while True:
     allSlogovi = '  |  '.join(finalList)
     
     print ('\n')
-    print ('REČ PO SLOGOVIMA'.center(50))
+    print ('SYLLABLES'.center(50))
     print ('..........................................................'.center(50))
     print (allSlogovi.center(50))
     print ('..........................................................\n\n'.center(50))
