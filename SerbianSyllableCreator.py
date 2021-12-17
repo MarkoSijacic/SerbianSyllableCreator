@@ -2,7 +2,7 @@
 
 # .......................................................WELCOME TO SYLLABLE CREATOR.................................................
 
-# This program lists splits the word into its syllables. Works best in Serbian!
+# This program will split the word into its syllables. Works best in Serbian!
 
 # ...................................................................................................................................
 
